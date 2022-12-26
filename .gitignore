@@ -3,5 +3,5 @@
 *.iml
 
 # Output directory
-/out
-/auxil
+**/out
+**/auxil
