@@ -33,3 +33,12 @@ p 70 the big picture; context (p 75)
 p 71 "What was not being said?"
 p 71 "In their eagerness to react they miss the point."
 p 73 "Small, incremental changes are hard to see in the moment but over time can have a huge cumulative effect."
+p 77 flow; engagement (p 80) // TODO: elaborate
+p 78 Ken Robinson: "Imagination is the source of every form of human achievement"
+p 78 company is a military term
+p 80 "play is an antidote to stress"
+p 80 "stress, in addition to being an enemy of productivity, can actually shut down the creative, inquisitive, exploratory parts of our brain (hippocampus (p 81))"
+p 81 business & play require similar set of skills
+p 90 diminishing returns // TODO: elaborate
+p 95 “If the answer isn’t a definite yes then it should be a no."
+p 103 Jim Collins, Good to Great // TODO: check
