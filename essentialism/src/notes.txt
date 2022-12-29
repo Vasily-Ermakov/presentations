@@ -42,3 +42,9 @@ p 81 business & play require similar set of skills
 p 90 diminishing returns // TODO: elaborate
 p 95 “If the answer isn’t a definite yes then it should be a no."
 p 103 Jim Collins, Good to Great // TODO: check
+p 108 "If I didn’t have this opportunity, what would I be willing to do to acquire it?"
+p 114 short term interest advances when direction lacks
+p 117 intent is meaningful and measurable
+p 125 normative conformity
+p 127 "trading popularity for respect"
+p 130 "Yes. What should I deprioritize?"
