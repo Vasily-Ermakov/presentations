@@ -1,6 +1,6 @@
 From Greg McKeown, Essentialism.
 p 8 “Is this the very most important thing I should be doing with my time and resources right now?"
-p 8 “Just because I was invited didn’t seem a good enough reason to attend.
+p 8 “Just because I was invited didn’t seem a good enough reason to attend."
 p 9 "overworked and underutilized; busy but not productive"
 p 10 Weniger aber besser; less but better. TODO: clarify source
 p 10 "Am I investing in the right activities?"
@@ -42,9 +42,18 @@ p 81 business & play require similar set of skills
 p 90 diminishing returns // TODO: elaborate
 p 95 “If the answer isn’t a definite yes then it should be a no."
 p 103 Jim Collins, Good to Great // TODO: check
-p 108 "If I didn’t have this opportunity, what would I be willing to do to acquire it?"
 p 114 short term interest advances when direction lacks
 p 117 intent is meaningful and measurable
 p 125 normative conformity
 p 127 "trading popularity for respect"
 p 130 "Yes. What should I deprioritize?"
+p 132 sunk-cost bias
+p 135 endowment effect
+p 136 Hal Arkes: "waste is something we’re told to avoid"
+p 137 "we really are only admitting that we are now wiser than we once were"
+p 138 status quo bias
+p 138 zero-based budgeting
+p 163 planning fallacy
+p 164 social pressure affects estimation
+p 170 “Done is better than perfect."
+p 171 "What obstacles or bottlenecks are holding you back from achieving X, and how can I help remove these?"
