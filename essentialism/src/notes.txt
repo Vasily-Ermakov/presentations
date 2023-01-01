@@ -33,7 +33,7 @@ p 70 the big picture; context (p 75)
 p 71 "What was not being said?"
 p 71 "In their eagerness to react they miss the point."
 p 73 "Small, incremental changes are hard to see in the moment but over time can have a huge cumulative effect."
-p 77 flow; engagement (p 80) // TODO: elaborate
+p 77 flow; engagement (p 80); routine (p 182) // TODO: elaborate
 p 78 Ken Robinson: "Imagination is the source of every form of human achievement"
 p 78 company is a military term
 p 80 "play is an antidote to stress"
@@ -57,3 +57,12 @@ p 163 planning fallacy
 p 164 social pressure affects estimation
 p 170 “Done is better than perfect."
 p 171 "What obstacles or bottlenecks are holding you back from achieving X, and how can I help remove these?"
+p 174 "all forms of human motivation the most effective one is progress"
+p 186 "Nearly 40 percent of our choices are deeply unconscious. There is both danger and opportunity in this. The opportunity is that we can develop new abilities that eventually become instinctive. The danger is that we may develop routines that are counterproductive."
+p 186 "cue and reward become neurologically intertwined"
+p 188 "Focus on the hardest thing first.”
+p 191 Larry Gelwix: "There is a difference between losing and being beaten."
+p 192 qualitive time measurement
+p 195 multifocus
+p 196 "what was important right now was to figure out what was important right now"
+p 198 keep track of happiness moments to re-create them
