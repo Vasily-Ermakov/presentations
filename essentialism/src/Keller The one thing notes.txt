@@ -1,0 +1,4 @@
+p 28 reactive decision making
+p 29 "first thing on your list is just the first thing you thought of"
+Quality control handbook TODO: check
+p 40 David Meyer: "The cost in terms of extra time from having to task switch depends on how complex or simple the tasks are."
