@@ -15,3 +15,8 @@ p 119 "a bottomless pit of desire continually searching for the next thing that 
 "cheap pleasure" TODO: elaborate
 p 120 happiness factors: positive emotion and pleasure, achievement, relationships, engagement and meaning
 p 121 "To be financially wealthy you must have a purpose for your life."
+p 126 "hyperbolic discounting — the further away a reward is in the future, the smaller the immediate motivation to achieve it"
+p 131 writing down goals
+p 145 momentum
+p 154 OK plateau
+p 155 accountability
